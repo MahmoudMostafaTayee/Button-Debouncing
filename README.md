@@ -15,7 +15,7 @@ This mainly to handle the problem of button bouncing
 
 
 For further reading about button/switch bouncing you may refer to the follwing links:  
-https://www.nuvation.com/resources/article/switch-debouncing-electronic-product-designs
-https://www.youtube.com/watch?v=IvU8m_30iK0
-Or watch this tutorial:
+https://www.nuvation.com/resources/article/switch-debouncing-electronic-product-designs  
+https://www.youtube.com/watch?v=IvU8m_30iK0  
+Or watch this tutorial:  
 https://www.youtube.com/watch?v=IvU8m_30iK0
